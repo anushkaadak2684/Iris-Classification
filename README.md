@@ -87,16 +87,16 @@ python deploy.py
 ## 📂 Project Structure
 
 Iris-Classification/
-├── static/
-│   └── images.jpeg
-├── templates/
-│   └── index.html
-├── Iris-Dataset-Classification.ipynb
-├── Iris.csv
-├── deploy.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+- static/
+  - images.jpeg
+- templates/
+  - index.html
+- Iris-Dataset-Classification.ipynb
+- Iris.csv
+- deploy.py
+- requirements.txt
+- .gitignore
+- README.md
 
 ---
 
