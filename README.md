@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 Run the Jupyter Notebook:
-jupyter notebook Iris-Dataset-Classification.ipynb (Model is saved as saved_model.sav)
+jupyter notebook Iris-Dataset-Classification.ipynb (Model is saved as saved_model.sav, Scaler is saved as scaler.sav)
 
 Run the deployment script:
 python app.py
@@ -102,7 +102,7 @@ Iris-Classification/
 
 ## 📈 Results
 
-The trained models achieve high accuracy due to the clean and well-structured nature of the Iris dataset.
+The trained model achieve high accuracy due to the clean and well-structured nature of the Iris dataset.
 Performance can be improved using hyperparameter tuning and ensemble methods.
 
 ---
