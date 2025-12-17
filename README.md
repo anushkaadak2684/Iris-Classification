@@ -80,7 +80,7 @@ Run the Jupyter Notebook:
 jupyter notebook Iris-Dataset-Classification.ipynb (Model is saved as saved_model.sav)
 
 Run the deployment script:
-python deploy.py
+python app.py
 
 ---
 
@@ -93,7 +93,7 @@ Iris-Classification/
   - index.html
 - Iris-Dataset-Classification.ipynb
 - Iris.csv
-- deploy.py
+- app.py
 - requirements.txt
 - .gitignore
 - README.md
