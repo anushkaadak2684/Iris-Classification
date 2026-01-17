@@ -88,7 +88,7 @@ python app.py
 
 Iris-Classification/
 - static/
-  - images.jpeg
+  - bgimg.jpg
 - templates/
   - index.html
 - Iris-Dataset-Classification.ipynb
@@ -104,16 +104,3 @@ Iris-Classification/
 
 The trained model achieve high accuracy due to the clean and well-structured nature of the Iris dataset.
 Performance can be improved using hyperparameter tuning and ensemble methods.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-- Fork the repository
-- Create a new branch
-- Commit your changes
-- Open a pull request
-
----
